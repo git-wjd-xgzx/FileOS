@@ -1,0 +1,12 @@
+{
+  "version": "27.2",
+  "notes": "FileOS 27.2 发布说明\n\n- 新增自动更新：启动后自动检查新版本，发现更新一键下载安装（带数字签名校验，安全防篡改）\n- 「管理员面板」里的检测更新、导入更新、执行更新全部接入真实更新通道\n- 保留原有全部功能，界面与操作不变",
+  "pub_date": "2026-10-27T17:59:33.003Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/git-wjd-xgzx/FileOS/releases/download/v27.2/FileOS-27.2-Setup.exe",
+      "signature": "gEPgisIqPynKv/Nxz8ikzJ4aXI2mHVLUbfLiwug9bfNqemwBCpCPKFPp3+ySwX1ITRdevV/Gh23KGzNlanjGCw==",
+      "sha256": "ee243d31f8f404cbd32006cdffa5dcef081c2aeb8c781d3c56a5b2cc3674c617"
+    }
+  }
+}
